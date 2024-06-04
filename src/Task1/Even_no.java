@@ -1,6 +1,6 @@
 package Task1;
 // declare a variable and find wheather the given number is even 
-public class code2 {
+public class Even_no {
 
 	public static void main(String[] args) {
 		int a;

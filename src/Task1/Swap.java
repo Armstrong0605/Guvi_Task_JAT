@@ -1,7 +1,7 @@
 package Task1;
 // Swapping the numbers
 import java.util.Scanner;
-public class code4 {
+public class Swap {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);// to get input from the user

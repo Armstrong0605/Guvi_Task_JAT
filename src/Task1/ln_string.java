@@ -1,6 +1,6 @@
 package Task1;
 // To check the length of the string
-public class code7 { 
+public class ln_string { 
 	public static void main(String [] args) {
 		String str = "Guvi Geek"; 
 		int len = str.length();

@@ -1,6 +1,6 @@
 package Task1;
 
-public class code10 {
+public class integer_ln {
     public static void main(String[] args) {
         int number = 123456789; // Example number
         int count = 0;

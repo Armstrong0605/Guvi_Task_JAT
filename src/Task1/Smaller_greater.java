@@ -1,6 +1,6 @@
 package Task1;
 // To declare four variables. The sum of a and b must greater than c and d. Use if statements to compare the values 
-public class Code1 {
+public class Smaller_greater {
 
 	public static void main(String[] args) {
 		int a,b,c,d,z,y;   // declaring the variables

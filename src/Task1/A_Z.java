@@ -1,6 +1,6 @@
 package Task1;
 // print characters A to Z
-public class code3 {
+public class A_Z {
 
 	public static void main(String[] args) {
 	
